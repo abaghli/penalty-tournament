@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* تخصيص إضافي لو تبي */
+body {
+  font-family: 'Tajawal', sans-serif;
+  direction: rtl;
+}
